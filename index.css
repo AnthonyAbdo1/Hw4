@@ -1,0 +1,83 @@
+body{
+    border-left: solid;
+    border-top: solid;
+    border-width: 100px;
+    
+}
+
+.navintro{
+    width: 88%;
+   
+}
+
+.heading1{
+    text-align: center;
+    letter-spacing: 10px;
+    
+}
+
+.aboutmediv{
+   
+    height: 400px;
+    width: 500px
+}
+
+.mepic{
+    width: 400px;
+    height: 500px;
+    margin-left: 20px;
+}
+
+.row2{
+  
+    border-bottom: solid;
+    padding: 20px;
+    padding-bottom: 100px;
+ 
+        
+}
+
+.row3{
+    padding-top: 20px;
+    border-bottom: solid;
+}
+
+
+
+.foods{
+    
+}
+
+.drinks{
+    
+}
+
+.pets{
+
+}
+
+.lol{
+    margin-top: 100px;
+}
+
+tr,th,td {
+    border: solid;
+}
+
+.contact{
+    width: 100px;
+}
+
+.pic{
+    max-height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.catpic{
+    
+    width: 200px;
+    display: inline-block;
+        
+}
+
