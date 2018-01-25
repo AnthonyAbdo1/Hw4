@@ -1,83 +1,52 @@
-body{
-    border-left: solid;
-    border-top: solid;
-    border-width: 100px;
+tr, th, td {
+    border: solid;
+    padding: 10px;
+}
+
+form{
+    border: solid;
+    width: 400px;
+    padding:20px;
+    margin-left: 400px;
     
 }
 
-.navintro{
-    width: 88%;
-   
-}
-
-.heading1{
-    text-align: center;
-    letter-spacing: 10px;
-    
-}
-
-.aboutmediv{
-   
-    height: 400px;
-    width: 500px
+input{
+    width: 360px
 }
 
 .mepic{
-    width: 400px;
-    height: 500px;
-    margin-left: 20px;
+    border-radius: 50%;
+    height: 200px;
+    margin-left: 180px;
 }
 
-.row2{
-  
+.pow{
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+.p1{
+    font-size: 15px;
+    margin-left: 30px
+}
+
+.p2{
+    margin-left: 140px
+}
+
+.favs{
     border-bottom: solid;
-    padding: 20px;
-    padding-bottom: 100px;
- 
-        
-}
-
-.row3{
+    border-top: solid;
+    padding-bottom: 20px;
     padding-top: 20px;
-    border-bottom: solid;
 }
 
-
-
-.foods{
+.lala{
     
+   margin-left: 450px;
+       width: 300px;
+    text-align: center;
+    padding-top: 10px;
 }
-
-.drinks{
-    
-}
-
-.pets{
-
-}
-
-.lol{
-    margin-top: 100px;
-}
-
-tr,th,td {
-    border: solid;
-}
-
-.contact{
-    width: 100px;
-}
-
-.pic{
-    max-height: 200px;
-    width: 200px;
-    display: inline-block;
-}
-
-.catpic{
-    
-    width: 200px;
-    display: inline-block;
-        
-}
-
